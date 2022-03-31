@@ -9911,7 +9911,7 @@
 }
 
 .swagger-ui .info {
-	margin: 50px 0
+	margin: 0px 0
 }
 
 .swagger-ui .info.failed-config {
@@ -9926,7 +9926,7 @@
 }
 
 .swagger-ui .info hgroup.main a {
-	font-size: 12px
+	font-size: 0
 }
 
 .swagger-ui .info pre {
@@ -9981,7 +9981,28 @@
 	margin: 0
 }
 
+/*.swagger-ui .info .title small {*/
+/*	background: #7d8492;*/
+/*	border-radius: 57px;*/
+/*	display: inline-block;*/
+/*	font-size: 10px;*/
+/*	margin: 0 0 0 5px;*/
+/*	padding: 2px 4px;*/
+/*	position: relative;*/
+/*	top: -5px;*/
+/*	vertical-align: super*/
+/*}*/
 
+/*.swagger-ui .info .title small.version-stamp {*/
+/*	background-color: #89bf04*/
+/*}*/
+
+/*.swagger-ui .info .title small pre {*/
+/*	color: #fff;*/
+/*	font-family: sans-serif;*/
+/*	margin: 0;*/
+/*	padding: 0*/
+/*}*/
 
 .swagger-ui .auth-btn-wrapper {
 	display: flex;
